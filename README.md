@@ -1,4 +1,4 @@
-# Snapi - FastAPI Microservice
+# Snapi
 
 Snapi is a lightweight and modern FastAPI-based backend service built for experimenting with public APIs, rapid endpoint development, and clean, automatic API documentation using Swagger (OpenAPI).
 
